@@ -1,0 +1,36 @@
+[
+  
+  {
+    "storeId": 0000,
+    "storeName": "Speedster Thailand",
+    "storeDescription": "Distributor of Speedster Engine Oils for SE Asia",
+    "storeLogo": "Speedster Thailand"
+    "storeTel": false
+    "storePurchaser" : "0000"
+    "countryCode" : "0000"
+    
+  },
+  
+  {
+    "storeId": 0001,
+    "storeName": "Arios",
+    "storeDescription": "Arios Japan. A automotive dealer specalizing in super cars.",
+    "storeLogo": "Arios"
+    "storeTel": false
+    "storePurchaser" : "Speedster Thailand"
+    "countryCode" : "Japan"
+    
+  },
+  
+  {
+      "storeId": 0002,
+      "storeName": "KRC",
+      "storeDescription": "Arios Japan. A automotive dealer specalizing in super cars.",
+      "storeLogo": "KRC"
+      "storeTel": false
+      "storePurchaser" : "Arios"
+      "countryCode" : "Japan"
+      
+  }
+  
+  ]
